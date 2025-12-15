@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I’m Ashish 👋
+Cloud | Infrastructure | Monitoring | Automation Consultant
 
-<!--
-**ashishgp7-git/ashishgp7-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design, implement, secure, and operate production-grade cloud and on-prem infrastructure.
+Experienced in AWS, Azure, Zabbix HA, Backup & DR, Automation, and Compliance (PCI, ISO).
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Cloud: AWS, Azure  
+🔹 Monitoring: Zabbix, Grafana  
+🔹 HA & DR: Galera, Pacemaker, Corosync, ASR  
+🔹 OS: Linux, Windows  
+🔹 Automation: Bash, PowerShell  
+🔹 Backup: Veeam, TSM, Commvault  
+🔹 Compliance: PCI DSS, ISO evidence
+
+📧 Email: ashishgp7@gmail.com  
+🔗 LinkedIn: your-linkedin-url
